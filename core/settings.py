@@ -30,7 +30,8 @@ ALLOWED_HOSTS = [
     "localhost",
     ".ngrok-free.app",
     "http://localhost:3000",
-    "https://d64e-105-66-3-94.ngrok-free.app",
+    ".vercel.app",
+    ".now.sh",
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
